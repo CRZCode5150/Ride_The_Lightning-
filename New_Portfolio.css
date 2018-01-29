@@ -1,0 +1,51 @@
+body{
+    background-image: url("Img/ayo-ogunseinde-325040.jpg");
+    background-size: cover;
+}
+h2{
+    border: groove 5px;
+    border-color: black;
+}
+
+p{
+    Border: groove 5px;
+    Border-color: black;
+}
+
+h3{
+
+    border-color: red;
+
+    float:left;
+    margin-top: 30px;
+}
+
+.Uncharted{
+
+border: groove;
+border-color: Black;
+}
+
+.Metallica{
+
+margin-left: 155px;
+border: groove;
+border-color: black;
+}
+
+.Fortnite{
+
+margin-right:3px;
+border: groove;
+border-color: black;
+}
+
+.MagicZombie{
+margin-left: 22%;
+}
+
+
+.StephCurry{
+border: groove;
+border-color: black;
+}
